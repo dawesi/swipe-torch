@@ -1,0 +1,56 @@
+{
+    "name": "Torch",
+    "settings": {
+        "urlPrefix": "http://local.dev/demos/torch/",
+        "spacesToIndent": 4,
+        "exportPath": "",
+        "sdkPath": "",
+        "lineEnding": "CRLF",
+        "genTimestamps": false,
+        "cacheBust": false
+    },
+    "xdsVersion": "2.1.0",
+    "xdsBuild": 676,
+    "schemaVersion": 1,
+    "upgradeVersion": 210000000498,
+    "framework": "touch21",
+    "topInstanceFileMap": {
+        "bc84ba54-720e-4b3e-a57f-23d6b3dcb034": {
+            "paths": [
+                "metadata/view/MyContainer",
+                "app/view/override/MyContainer.js",
+                "app/view/MyContainer.js"
+            ],
+            "className": "MyContainer"
+        },
+        "56340226-f754-42ad-ace6-a8342c51c0e1": {
+            "paths": [
+                "metadata/view/LightPanel",
+                "app/view/override/LightPanel.js",
+                "app/view/LightPanel.js"
+            ],
+            "className": "LightPanel"
+        },
+        "6e218611-d6eb-44a1-90c1-8416558eb77b": {
+            "paths": [
+                "metadata/resource/Library"
+            ],
+            "className": "Library"
+        }
+    },
+    "viewOrderMap": {
+        "view": [
+            "bc84ba54-720e-4b3e-a57f-23d6b3dcb034",
+            "56340226-f754-42ad-ace6-a8342c51c0e1"
+        ],
+        "store": [],
+        "controller": [],
+        "model": [],
+        "resource": [
+            "6e218611-d6eb-44a1-90c1-8416558eb77b"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}

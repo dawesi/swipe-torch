@@ -1,0 +1,95 @@
+{
+    "type": "carousel",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "flex": 1,
+        "designer|userClassName": "LightPanel",
+        "designer|userAlias": "lightpanel",
+        "direction": "vertical"
+    },
+    "id": "ExtBox1-ext-gen3312",
+    "designerId": "56340226-f754-42ad-ace6-a8342c51c0e1",
+    "customConfigs": [
+        {
+            "group": "(Custom Properties)",
+            "name": "flex",
+            "type": "number"
+        }
+    ],
+    "cn": [
+        {
+            "type": "container",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "designer|userClassName": "MyContainer1",
+                "itemId": "light-0",
+                "style": "background:#000000;"
+            },
+            "designerId": "a36ea5e4-6436-4d15-9225-3a6903120a6b"
+        },
+        {
+            "type": "container",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "designer|userClassName": "MyContainer1",
+                "itemId": "light-25",
+                "style": "background:#444444;"
+            },
+            "designerId": "d849582e-62de-43af-bd8a-f870a2ecea19"
+        },
+        {
+            "type": "container",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "designer|userClassName": "MyContainer1",
+                "itemId": "light-50",
+                "style": "background:#888888;"
+            },
+            "designerId": "1334400b-ea7c-45cc-90bc-edc7c1f5045c"
+        },
+        {
+            "type": "container",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "designer|userClassName": "MyContainer1",
+                "itemId": "light-75",
+                "style": "background:#CCCCCC;"
+            },
+            "designerId": "9c069dba-23b9-4ebc-abf3-4382f7289f47"
+        },
+        {
+            "type": "container",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "designer|userClassName": "MyContainer1",
+                "itemId": "light-100",
+                "style": "background:#FFFFFF;"
+            },
+            "designerId": "4c523899-b487-440d-93c3-4e296550dd13"
+        }
+    ]
+}
